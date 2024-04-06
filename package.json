@@ -36,7 +36,8 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog.git"
     },
     "dependencies": {
-        "bootstrap": "5.2.3"
+        "bootstrap": "5.2.3",
+        "heroku": "^8.11.1"
     },
     "devDependencies": {
         "autoprefixer": "10.4.14",
